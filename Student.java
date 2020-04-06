@@ -1,7 +1,10 @@
+import java.util.*;
+import java.io.*;
 class Student {
 	String index;
 	String firstName;
 	String lastName;
+	List<Integer>grades=new ArrayList<>();
 
 	//TODO constructor
 
